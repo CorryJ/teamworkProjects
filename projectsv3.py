@@ -32,7 +32,7 @@ ProjID = (data_out_Proj['id']) #only use to get all projectID's
 #for i in ProjID:
     #print(i)
 
-#ProjID = [322846,296308,399156] # individual Teamwork projectID's
+#ProjID = [xxxxxx,xxxxxx,xxxxxx] # individual Teamwork projectID's
 
 #dates query parameters in yyyymmdd format
 fromDate = 20200101
