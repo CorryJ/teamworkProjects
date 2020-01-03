@@ -11,5 +11,5 @@ Specifically this file will:
 * Uploads CSV to google sheet
 
 **Further info:**
-[Teamwork Projects API v1 documentation](https://developer.teamwork.com/projects/api-v1)
-[Google Sheet / GSpread](https://gspread.readthedocs.io/en/latest/oauth2.html)
+* [Teamwork Projects API v1 documentation](https://developer.teamwork.com/projects/api-v1)
+* [Google Sheet / GSpread](https://gspread.readthedocs.io/en/latest/oauth2.html)
